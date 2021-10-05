@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="9701" started-at="2021-10-05T20:43:40Z" finished-at="2021-10-05T20:43:50Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="9701" started-at="2021-10-05T20:43:40Z" finished-at="2021-10-05T20:43:50Z">
+      <class name="VideoGameAPI.TC_VideoGameAPI">
+        <test-method status="PASS" signature="test_getAllVideoGames()[pri:1, instance:VideoGameAPI.TC_VideoGameAPI@d8355a8]" name="test_getAllVideoGames" duration-ms="5770" started-at="2021-10-05T20:43:41Z" finished-at="2021-10-05T20:43:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_getAllVideoGames -->
+        <test-method status="PASS" signature="test_addNewVideoGame()[pri:2, instance:VideoGameAPI.TC_VideoGameAPI@d8355a8]" name="test_addNewVideoGame" duration-ms="1264" started-at="2021-10-05T20:43:46Z" finished-at="2021-10-05T20:43:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_addNewVideoGame -->
+        <test-method status="PASS" signature="test_getSingleGameId()[pri:3, instance:VideoGameAPI.TC_VideoGameAPI@d8355a8]" name="test_getSingleGameId" duration-ms="2268" started-at="2021-10-05T20:43:48Z" finished-at="2021-10-05T20:43:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_getSingleGameId -->
+        <test-method status="PASS" signature="test_updateRecord()[pri:4, instance:VideoGameAPI.TC_VideoGameAPI@d8355a8]" name="test_updateRecord" duration-ms="226" started-at="2021-10-05T20:43:50Z" finished-at="2021-10-05T20:43:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_updateRecord -->
+        <test-method status="PASS" signature="test_deleteSingleVideoGame()[pri:5, instance:VideoGameAPI.TC_VideoGameAPI@d8355a8]" name="test_deleteSingleVideoGame" duration-ms="69" started-at="2021-10-05T20:43:50Z" finished-at="2021-10-05T20:43:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_deleteSingleVideoGame -->
+      </class> <!-- VideoGameAPI.TC_VideoGameAPI -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
